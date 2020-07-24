@@ -1,0 +1,14 @@
+# Machine-Learning
+
+- [Foundations of Machine Learning by M. Mohri, A. Rostamizadeh, A. Talwalkar](./Foundations%20of%20Machine%20Learning%20by%20M.%20Mohri,%20A.%20Rostamizadeh,%20A.%20Talwalkar.pdf) \| 	[download(6.66M)](https://github.com/EvanLi/programming-book-3/raw/master/Machine-Learning/Foundations%20of%20Machine%20Learning%20by%20M.%20Mohri,%20A.%20Rostamizadeh,%20A.%20Talwalkar.pdf)
+- [Hands on Machine Learning with Scikit Learn and TensorFlow - 中文版](./Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow%20-%20中文版.pdf) \| 	[download(7.60M)](https://github.com/EvanLi/programming-book-3/raw/master/Machine-Learning/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow%20-%20中文版.pdf)
+- [Hands on Machine Learning with Scikit Learn and TensorFlow](./Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow.pdf) \| 	[download(7.09M)](https://github.com/EvanLi/programming-book-3/raw/master/Machine-Learning/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow.pdf)
+- [MLAPP - Machine Learning-A Probabilistic Perspective - Kevin P. Murphy](./MLAPP%20-%20Machine%20Learning-A%20Probabilistic%20Perspective%20-%20Kevin%20P.%20Murphy.pdf) \| 	[download(25.69M)](https://github.com/EvanLi/programming-book-3/raw/master/Machine-Learning/MLAPP%20-%20Machine%20Learning-A%20Probabilistic%20Perspective%20-%20Kevin%20P.%20Murphy.pdf)
+- [PRML-Pattern-Recognition-and-Machine-Learning-2006](./PRML-Pattern-Recognition-and-Machine-Learning-2006.pdf) \| 	[download(10.85M)](https://github.com/EvanLi/programming-book-3/raw/master/Machine-Learning/PRML-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+- [PRML-中文版-模式识别与机器学习-马春鹏](./PRML-中文版-模式识别与机器学习-马春鹏.pdf) \| 	[download(6.39M)](https://github.com/EvanLi/programming-book-3/raw/master/Machine-Learning/PRML-中文版-模式识别与机器学习-马春鹏.pdf)
+- [Python Machine Learning - Python机器学习](./Python%20Machine%20Learning%20-%20Python机器学习.pdf) \| 	[download(4.91M)](https://github.com/EvanLi/programming-book-3/raw/master/Machine-Learning/Python%20Machine%20Learning%20-%20Python机器学习.pdf)
+- [周志华-机器学习](./周志华-机器学习.pdf) \| 	[download(85.68M)](https://github.com/EvanLi/programming-book-3/raw/master/Machine-Learning/周志华-机器学习.pdf)
+- [机器学习与数据挖掘方法和应用](./机器学习与数据挖掘方法和应用.pdf) \| 	[download(17.56M)](https://github.com/EvanLi/programming-book-3/raw/master/Machine-Learning/机器学习与数据挖掘方法和应用.pdf)
+- [机器学习个人笔记完整版v5.35 - 黄海广](./机器学习个人笔记完整版v5.35%20-%20黄海广.pdf) \| 	[download(5.21M)](https://github.com/EvanLi/programming-book-3/raw/master/Machine-Learning/机器学习个人笔记完整版v5.35%20-%20黄海广.pdf)
+- [机器学习的数学基础v1.01 - 黄海广](./机器学习的数学基础v1.01%20-%20黄海广.pdf) \| 	[download(1.17M)](https://github.com/EvanLi/programming-book-3/raw/master/Machine-Learning/机器学习的数学基础v1.01%20-%20黄海广.pdf)
+- [统计学习方法-李航](./统计学习方法-李航.pdf) \| 	[download(17.56M)](https://github.com/EvanLi/programming-book-3/raw/master/Machine-Learning/统计学习方法-李航.pdf)
